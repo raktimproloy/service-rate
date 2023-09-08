@@ -14,7 +14,7 @@ function index() {
                     </div>
                 </div>
                 <div className='col-md-6'>
-                    <img src="/hero.jpg" alt="" style={{ width: "100%"}} />
+                    <img src="/hero.jpeg" alt="" style={{ width: "100%"}} />
                 </div>
             </div>
         </div>

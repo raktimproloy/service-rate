@@ -10,7 +10,7 @@ function index() {
                         <div className="blog-grid">
                             <div className="blog-img">
                                 <a href="#">
-                                    <img src="/story1.jpg" title="" alt="" style={{width: "100%", height: "20rem"}}/>
+                                    <img src="/story1.jpeg" title="" alt="" style={{width: "100%", height: "20rem"}}/>
                                 </a>
                             </div>
                             <div className="blog-info my-3">
@@ -23,7 +23,7 @@ function index() {
                         <div className="blog-grid">
                             <div className="blog-img">
                                 <a href="#">
-                                    <img src="/story2.jpg" title="" alt="" style={{width: "100%", height: "20rem"}}/>
+                                    <img src="/story2.jpeg" title="" alt="" style={{width: "100%", height: "20rem"}}/>
                                 </a>
                             </div>
                             <div className="blog-info my-3">
@@ -36,7 +36,7 @@ function index() {
                         <div className="blog-grid">
                             <div className="blog-img">
                                 <a href="#">
-                                    <img src="/story3.jpg" title="" alt="" style={{width: "100%", height: "20rem"}}/>
+                                    <img src="/story3.jpeg" title="" alt="" style={{width: "100%", height: "20rem"}}/>
                                 </a>
                             </div>
                             <div className="blog-info my-3">
