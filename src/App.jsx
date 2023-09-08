@@ -15,7 +15,7 @@ function App() {
       <Navbar/>
       <HeroSection/>
       <ExploreSection/>
-      {/* <ReviewSection/> */}
+      <ReviewSection/>
       <AboutUs/>
       <Blog/>
       <Footer/>
