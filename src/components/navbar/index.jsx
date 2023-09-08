@@ -6,7 +6,7 @@ function index() {
     <nav className="navbar navbar-expand-lg navbar-light py-4" style={{background: "#F52576"}}>
   <div className="container">
     <a className="navbar-brand" href="#">
-      <img src="/public/service-rate-logo.svg" alt="" style={{width: "50%"}}/>
+      <img src="/service-rate-logo.svg" alt="" style={{width: "50%"}}/>
     </a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
