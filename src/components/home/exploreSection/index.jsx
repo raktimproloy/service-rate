@@ -12,10 +12,10 @@ function index() {
                 <h1 className="mb-3" style={{color: "#F52576"}}>Explore Catagory</h1>
             </div>
             <div className="">
-                <a className="btn mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev" style={{background: "black", color: "white"}}>
+                <a className="btn mb-3 mr-1" href="#carouselExampleIndicators2" role="button" data-slide="prev" style={{background: "#3ABFF8", color: "black"}}>
                     <FontAwesomeIcon icon={faArrowLeft}/>
                 </a>
-                <a className="btn mb-3 ms-4 " href="#carouselExampleIndicators2" role="button" data-slide="next" style={{background: "black", color: "white"}}>
+                <a className="btn mb-3 ms-4 " href="#carouselExampleIndicators2" role="button" data-slide="next" style={{background: "#3ABFF8", color: "black"}}>
                     <FontAwesomeIcon icon={faArrowRight}/>
                 </a>
             </div>

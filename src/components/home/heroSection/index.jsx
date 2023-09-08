@@ -10,7 +10,7 @@ function index() {
                     <h3 style={{color: "#F52576", fontWeight: "blod"}}>Where Honest Opinions Shape Better Choices.</h3>
                     <div className="input-group my-4">
                         <input type="text" className="form-control py-2" placeholder="Search..." aria-label="Recipient's username" aria-describedby="button-addon2"/>
-                        <button className="btn btn-outline-secondary" style={{background: "black", color: "white"}} type="button" id="button-addon2">Search</button>
+                        <button className="btn btn-outline-secondary" style={{background: "#3ABFF8", color: "black"}} type="button" id="button-addon2">Search</button>
                     </div>
                 </div>
                 <div className='col-md-6'>

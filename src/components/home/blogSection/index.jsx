@@ -48,7 +48,7 @@ function index() {
                 </div>
 
                 <div className='text-center my-4'>
-                    <button className='px-4 py-2 rounded-pill' style={{background: "black", color:"white"}}>See More</button>
+                    <button className='px-4 py-2' style={{background: "#3ABFF8", color:"black", borderRadius: "10px", border: "1px solid white"}}>See More</button>
                 </div>
             </div>
         </section>
